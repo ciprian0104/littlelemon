@@ -1,0 +1,15 @@
+
+user: "ciprian" password: "root" 
+http://localhost/auth/token/login/ to get the Token
+
+GET in http://localhost:8000/api/menu/1
+
+GET in http://localhost:8000/api/menu
+
+Get all menus POST http://localhost:8000/api/menu/
+
+GET in http://localhost:8000/api/booking/tables
+
+POST http://localhost:8000/api/api-token-auth/
+
+use http://localhost:8000/auth/token/logout/ to logout with the token in the header
